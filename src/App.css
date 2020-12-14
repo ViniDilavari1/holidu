@@ -1,38 +1,77 @@
 .App {
-  text-align: center;
+  padding: 5% 0;
+  background-color: #282828;
+  color:#fff;
+
+}
+.width80{
+  width:80%;
+  margin:0 auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/**styling each tile***/
+.tile {
+    padding: 30px;
+    border: 2px solid #eee;
+    margin-bottom: 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.extraDetails{
+    padding-inline-start: 0px;
+    margin-top:20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.extraDetails li{
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    background: #f1a336;
+    margin-right: 10px;
+    border-radius: 3px;
+    padding: 2px 5px;
+    font-weight: 700;
 }
 
-.App-link {
-  color: #61dafb;
+h6 a, h6 a:hover{
+  color:#f1a336;
+  font-size:18px;
+  text-decoration:none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.fa-heart {
+    color: #be5a0e;
+    display: block;
+    text-align: right;
+}
+
+.rating, .price {
+    font-weight: 700;
+}
+
+.card{
+margin: 10px;
+
+}
+.provide{
+  max-width:150px;
+}
+img.rental-card{
+  max-height:270px;
+}
+
+/**styling carousel***/
+.slick-dots{display:none}
+
+
+@media only screen and (min-width: 768px){
+  .tile .row {
+    display: flex;
+}
+img.rental-card{
+  max-height:140px;
+}
+.provide{
+  max-width:100%;
+}
 }
