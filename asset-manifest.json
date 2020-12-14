@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ViniDilavari1/holidu.git/static/css/main.bc7e8994.chunk.css",
+    "main.js": "/ViniDilavari1/holidu.git/static/js/main.34c27108.chunk.js",
+    "main.js.map": "/ViniDilavari1/holidu.git/static/js/main.34c27108.chunk.js.map",
+    "runtime-main.js": "/ViniDilavari1/holidu.git/static/js/runtime-main.06b33581.js",
+    "runtime-main.js.map": "/ViniDilavari1/holidu.git/static/js/runtime-main.06b33581.js.map",
+    "static/css/2.954b2140.chunk.css": "/ViniDilavari1/holidu.git/static/css/2.954b2140.chunk.css",
+    "static/js/2.11df1089.chunk.js": "/ViniDilavari1/holidu.git/static/js/2.11df1089.chunk.js",
+    "static/js/2.11df1089.chunk.js.map": "/ViniDilavari1/holidu.git/static/js/2.11df1089.chunk.js.map",
+    "static/js/3.2ece57bb.chunk.js": "/ViniDilavari1/holidu.git/static/js/3.2ece57bb.chunk.js",
+    "static/js/3.2ece57bb.chunk.js.map": "/ViniDilavari1/holidu.git/static/js/3.2ece57bb.chunk.js.map",
+    "index.html": "/ViniDilavari1/holidu.git/index.html",
+    "static/css/2.954b2140.chunk.css.map": "/ViniDilavari1/holidu.git/static/css/2.954b2140.chunk.css.map",
+    "static/css/main.bc7e8994.chunk.css.map": "/ViniDilavari1/holidu.git/static/css/main.bc7e8994.chunk.css.map",
+    "static/js/2.11df1089.chunk.js.LICENSE.txt": "/ViniDilavari1/holidu.git/static/js/2.11df1089.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/ViniDilavari1/holidu.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b33581.js",
+    "static/css/2.954b2140.chunk.css",
+    "static/js/2.11df1089.chunk.js",
+    "static/css/main.bc7e8994.chunk.css",
+    "static/js/main.34c27108.chunk.js"
+  ]
+}
